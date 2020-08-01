@@ -1,4 +1,4 @@
-export default async function asyncMapSeries<V = any, R = V>(
+export default async function mapSeriesAsync<V = any, R = V>(
   values: V[],
   iterator: (value: V, i?: number, length?: number) => Promise<R>
 ): Promise<R[]> {

@@ -1,6 +1,6 @@
 {
   "name": "map-series-async",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "map over a single async operation at a time",
   "keywords": [
     "map-series-async",
