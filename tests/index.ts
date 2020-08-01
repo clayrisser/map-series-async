@@ -1,4 +1,4 @@
-describe('async-map-series', () => {
+describe('map-series-async', () => {
   it('should work', async () => {
     expect(true).toBe(true);
   });

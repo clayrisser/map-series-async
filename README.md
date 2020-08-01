@@ -1,6 +1,6 @@
-# async-map-series
+# map-series-async
 
-[![GitHub stars](https://img.shields.io/github/stars/codejamninja/async-map-series.svg?style=social&label=Stars)](https://github.com/codejamninja/async-map-series)
+[![GitHub stars](https://img.shields.io/github/stars/codejamninja/map-series-async.svg?style=social&label=Stars)](https://github.com/codejamninja/map-series-async)
 
 > map over a single async operation at a time
 
@@ -9,7 +9,7 @@ Please ★ this repo if you found it useful ★ ★ ★
 ## Installation
 
 ```sh
-npm install --save async-map-series
+npm install --save map-series-async
 ```
 
 ## Dependencies
@@ -18,29 +18,29 @@ npm install --save async-map-series
 
 ## Usage
 
-[Contribute](https://github.com/codejamninja/async-map-series/blob/master/CONTRIBUTING.md) usage docs
+[Contribute](https://github.com/codejamninja/map-series-async/blob/master/CONTRIBUTING.md) usage docs
 
 ## Support
 
-Submit an [issue](https://github.com/codejamninja/async-map-series/issues/new)
+Submit an [issue](https://github.com/codejamninja/map-series-async/issues/new)
 
 ## Screenshots
 
-[Contribute](https://github.com/codejamninja/async-map-series/blob/master/CONTRIBUTING.md) a screenshot
+[Contribute](https://github.com/codejamninja/map-series-async/blob/master/CONTRIBUTING.md) a screenshot
 
 ## Contributing
 
-Review the [guidelines for contributing](https://github.com/codejamninja/async-map-series/blob/master/CONTRIBUTING.md)
+Review the [guidelines for contributing](https://github.com/codejamninja/map-series-async/blob/master/CONTRIBUTING.md)
 
 ## License
 
-[MIT License](https://github.com/codejamninja/async-map-series/blob/master/LICENSE)
+[MIT License](https://github.com/codejamninja/map-series-async/blob/master/LICENSE)
 
 [Jam Risser](https://codejam.ninja) © 2020
 
 ## Changelog
 
-Review the [changelog](https://github.com/codejamninja/async-map-series/blob/master/CHANGELOG.md)
+Review the [changelog](https://github.com/codejamninja/map-series-async/blob/master/CHANGELOG.md)
 
 ## Credits
 

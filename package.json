@@ -1,17 +1,17 @@
 {
-  "name": "async-map-series",
+  "name": "map-series-async",
   "version": "0.0.1",
   "description": "map over a single async operation at a time",
   "keywords": [
-    "async-map-series",
+    "map-series-async",
     "map",
     "async",
     "series",
     "bluebird"
   ],
-  "homepage": "https://github.com/codejamninja/async-map-series",
+  "homepage": "https://github.com/codejamninja/map-series-async",
   "bugs": {
-    "url": "https://github.com/codejamninja/async-map-series/issues",
+    "url": "https://github.com/codejamninja/map-series-async/issues",
     "email": "jam@codejam.ninja"
   },
   "license": "MIT",
@@ -26,7 +26,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codejamninja/async-map-series"
+    "url": "https://github.com/codejamninja/map-series-async"
   },
   "scripts": {
     "build": "make -s build",
