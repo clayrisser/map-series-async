@@ -4,6 +4,8 @@
 
 > map over a single async operation at a time
 
+![](assets/map-series-async.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Installation
